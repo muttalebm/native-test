@@ -1,0 +1,6 @@
+<Page loaded="pageLoaded">
+  <ActionBar title="Apple Sucks!!" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+  <Image src="~/images/apple.jpg"></Image>
+
+</Page>
